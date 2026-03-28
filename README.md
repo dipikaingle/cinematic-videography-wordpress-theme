@@ -40,11 +40,7 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
-_Add screenshots here (Homepage, Portfolio, Video section, Mobile view)_
-
-Example:
-![Homepage](./screenshots/homepage.png)
-![Portfolio](./screenshots/portfolio.png)
+![blogpage](./cinematic/blogpage.jpg)
 
 ---
 
