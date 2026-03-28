@@ -40,7 +40,13 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
+![homepage](./cinematic/homepage.jpg)
+![video](./cinematic/video.jpg)
+![project](./cinematic/project.jpg)
+![service](./cinematic/service.jpg)
 ![blogpage](./cinematic/blogpage.jpg)
+![single-blog-page](./cinematic/single-blog-page.jpg)
+![contact](./cinematic/contact.jpg)
 
 ---
 
