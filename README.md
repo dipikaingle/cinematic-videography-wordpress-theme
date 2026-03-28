@@ -40,12 +40,19 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
+- Home Page
 ![homepage](./cinematic/homepage.jpg)
+- Video Page
 ![video](./cinematic/video.jpg)
+- Project Page
 ![project](./cinematic/project.jpg)
+- Service Page
 ![service](./cinematic/service.jpg)
+- Blog Page
 ![blogpage](./cinematic/blogpage.jpg)
+- Single Blog Page
 ![single-blog-page](./cinematic/single-blog-page.jpg)
+- Contact page
 ![contact](./cinematic/contact.jpg)
 
 ---
